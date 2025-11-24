@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+<body style="background-image: url('https://cdn.decorilla.com/online-decorating/wp-content/uploads/2024/07/Best-small-kitchen-ideas-by-Decorilla-1024x771.jpeg?width=900');">
+
+    <center>
+<h1><p style="background-color:white;">The Categories</p></h1>
+ <a href="url">Home</a>
+ <hr>
+  <a href="url">Breakfast</a>
+  <hr>
+   <a href="url">Lunch</a>
+   <hr>
+    <a href="url">Dinner</a>
+    <hr>
+     <a href="url">Dessert</a>
+     <hr>
+      <a href="url">Midnight Snack</a>
+      
+      
+</center>
+  </body>
+</html>
